@@ -3,6 +3,6 @@ module.exports = {
     description: 'Receive a greeting from the bot',
     public: true, 
     execute(ctx){
-        ctx.replyWithMarkdown('Hello World');
+        ctx.replyWithMarkdown('Hello buddy, thanks for joining the gang.');
     }
 }
