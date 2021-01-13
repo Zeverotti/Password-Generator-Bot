@@ -1,10 +1,6 @@
-# Telegraf Bot Template
+# Password-Generator-Bot
 
-This is a template for [Telegraf.js](https://telegraf.js.org/#/) with the purpose of facilitating the development of bots.
-
-It contains a pre-configured environment and you will be able to launch your bot in a few minutes.
-
-The bot's commands are dynamic, you can add your own without interacting with the internal code.
+This bot helps you to generating passwords and keeping track of you credentials.
 
 ## Getting started
 
